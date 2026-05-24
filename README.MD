@@ -47,7 +47,8 @@ Demonstrar a aplicação prática de conceitos de programação estruturada para
 ## 🚀 Como Executar e Testar os Scripts
 
 1. Clone este repositório para a sua máquina local:
-   ```bash
+```
+bash
    git clone [https://github.com/pablo-rafael/desafios_dio_py.git](https://github.com/pablo-rafael/desafios_dio_py.git)
 ```
 
